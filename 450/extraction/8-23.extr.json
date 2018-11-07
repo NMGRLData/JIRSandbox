@@ -1,0 +1,33 @@
+{
+    "beam_diameter": "1.25",
+    "cleanup_duration": 30.0,
+    "commit": "58bd2852a3a76f3414cd0d103334fb03e71bd49b",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 4.0,
+    "grain_polygon_blob": [
+        "b'H8a3TtcTiUI6AD4AOgA/ADoAQAA6AEEAOgBCADoAQwA6AEQAOgBFADoARgA6AEcAOQBIADgASAA3AEgANgBIADUASAA0AEgAMwBIADMASQAzAEoAMwBLADMATAAzAE0AMwBOADMATwAzAFAAMwBRADMAUgAzAFMAMwBUADIAVQAxAFUAMABVAC8AVQAuAFUALQBVACwAVQAsAFYALABXACwAWAAsAFkALABaAC0AWgAuAFoALwBbAC8AXAAvAF0ALwBeAC8AXwAwAF8AMQBfADIAXwAzAF8ANABgADQAYQA0AGIANQBiADYAYgA3AGIANgBhADYAYAA1AGAANABgADMAXwAzAF4AMwBdADMAXAAzAFsAMwBaADMAWQAzAFgAMwBXADQAVgA1AFYANgBWADcAVgA4AFYAOQBWADoAVgA7AFYAOwBVADsAVAA7AFMAPABSAD0AUgA9AFEAPQBQADwATwA8AE4APABNADwATAA8AEsAPABKADwASQA8AEgAPABHAD0ARgA+AEYAPwBGAD4ARgA9AEYAPABFADwARAA8AEMAPABCADwAQQA8AEAAPAA/ADwAPgA7AD4A'"
+    ],
+    "load_holder": "221",
+    "load_name": "C0010",
+    "measured_response": "Tm8gUmVzcG9uc2U=",
+    "pattern": "triangle.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "44",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "Tm8gUmVzcG9uc2U=",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "221",
+    "videos": [],
+    "weight": 0.0
+}
