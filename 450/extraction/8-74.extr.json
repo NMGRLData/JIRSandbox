@@ -1,0 +1,36 @@
+{
+    "beam_diameter": "1.25",
+    "cleanup_duration": 30.0,
+    "commit": "ed847e8e105cc37267ce0bc544d4e5ad31781240",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 4.0,
+    "grain_polygon_blob": [
+        "b'pci3TtcTiUJ4AGoAdwBrAHYAawB1AGsAdABsAHMAbQByAG4AcQBvAHEAcABxAHEAcgByAHIAcwByAHQAcwB1AHQAdgB1AHYAdgB3AHcAdwB4AHcAeQB3AHoAdgB7AHYAfAB1AHwAdAB9AHMAfgByAH8AcQB+AHAAfgBvAH4AbgB9AG0AfABsAHsAawB6AGsAeQBrAA=='",
+        "b'pci3TtcTiUJ1AGAAdABhAHMAYgBzAGMAcgBkAHEAZQBwAGYAbwBnAG4AaABtAGkAbABqAGsAawBrAGwAawBtAGwAbgBsAG8AbQBwAG4AcQBvAHIAcABzAHEAdAByAHUAcwB2AHMAdwB0AHgAdQB5AHYAeAB3AHkAeAB5AHkAeAB6AHcAewB2AHwAdQB9AHUAfgB0AH8AdAB/AHMAgAByAIAAcQCBAHAAggBvAIIAbgCCAG0AgQBsAIEAawCAAGoAfwBpAH4AaAB9AGcAfABmAHsAZQB6AGQAeQBjAHgAYgB3AGEAdgBgAA=='",
+        "b'pci3TtcTiUJ1AGQAdABlAHMAZQByAGYAcgBnAHIAaABxAGkAcQBqAHEAawByAGwAcgBtAHMAbgB0AG8AdQBvAHYAcAB3AHAAeABwAHkAcAB6AHAAewBvAHsAbgB8AG0AfQBsAH0AawB+AGoAfQBpAH0AaAB8AGcAewBmAHsAZQB6AGUAeQBkAHgAZAB3AGQAdgBkAA=='",
+        "b'pci3TtcTiUJdAEYAXABHAFsARwBaAEgAWQBIAFgASQBXAEkAVgBKAFUASgBUAEsAVABMAFQATQBUAE4AVABPAFQAUABUAFEAVABSAFQAUwBUAFQAVABVAFQAVgBUAFcAVABYAFQAWQBUAFoAVABbAFQAXABUAF0AVABeAFQAXwBUAGAAVABhAFQAYgBUAGMAVABkAFQAZQBUAGYAVQBnAFYAaABXAGgAWABoAFkAaQBaAGkAWwBqAFwAagBdAGoAXgBqAF8AawBgAGsAYQBsAGIAbABjAG0AZABuAGUAbgBmAG8AZwBvAGgAbwBpAG8AagBvAGsAbwBsAHAAbQBwAG4AcQBvAHEAcAByAHEAcgByAHMAcwBzAHQAdAB1AHQAdgBzAHcAcgB4AHEAeQByAHoAcgB7AHIAfABxAH0AcQB+AHAAfwBvAIAAbgCBAG0AgQBsAIIAawCCAGoAgwBpAIQAaACFAGcAhQBmAIUAZQCFAGQAhQBjAIUAYgCEAGEAhABgAIMAXwCDAF4AgwBdAIIAXACCAFsAgQBaAIEAWQCAAFgAgABXAH8AVgB/AFUAfgBUAH4AUwB+AFIAfQBRAH0AUAB8AE8AewBOAHsATQB6AEwAegBLAHkASgB5AEkAeABIAHgARwB3AEYAdgBGAHUARgB0AEYAcwBGAHIARgBxAEYAcABGAG8ARgBuAEYAbQBGAGwARgBrAEYAagBGAGkARgBoAEYAZwBGAGYARgBlAEYAZABGAGMARgBiAEYAYQBGAGAARgBfAEYAXgBGAA=='"
+    ],
+    "load_holder": "221-hole",
+    "load_name": "C0011",
+    "measured_response": "Tm8gUmVzcG9uc2U=",
+    "pattern": "triangle.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "41",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "Tm8gUmVzcG9uc2U=",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0.0
+}
